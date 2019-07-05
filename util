@@ -4,3 +4,1009 @@ String aa = JSONObject.fromObject(result).getString("diGaoList");
             for (DiGaoXinXi x:digaoList) {
                 List<DigaoSuyuanYuanwen> digaoSuyuanYuanwen = matchCataglogName(catalogName);
             }
+            
+            
+            {
+    "diGaoList": [
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "0-0@0190000400937A1C77.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "CB5ABA3D-2FA8-4484-9256-90558E48B012",
+            "wenjianLj": "1-2-2  发行人控股股东或实际控制人的组织结构（含参控股子公司、分公司、职能部门设置）"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "3333@0190000200899BECA2.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "749318FE-1B5E-49AF-BD48-859712D112E9",
+            "wenjianLj": "1-2-2  发行人控股股东或实际控制人的组织结构（含参控股子公司、分公司、职能部门设置）"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "333@01900003008D2D786C.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "B667FB80-BB1E-4024-9208-A8A1AFBF4A13",
+            "wenjianLj": "1-2-2  发行人控股股东或实际控制人的组织结构（含参控股子公司、分公司、职能部门设置）"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "Chrysanthemum@029000010081F07779.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "EAFA10A4-96A7-4FF0-B148-140A4229E3FE",
+            "wenjianLj": "1-2-2  发行人控股股东或实际控制人的组织结构（含参控股子公司、分公司、职能部门设置）"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "LstToPdf@0190000100DAD7A502.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "90D7F6F9-330B-473D-81B5-8CF1FB88061D",
+            "wenjianLj": "1-2-2  发行人控股股东或实际控制人的组织结构（含参控股子公司、分公司、职能部门设置）"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "@0190000100C1AF7C1C.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "5C9242F6-6AEE-4DE9-88B9-95C0FC99E098",
+            "wenjianLj": "1-2-3  控股股东及实际控制人、主要股东如为自然人的，应提供关于国籍、身份证号码以及住所、是否拥有永久境外居留权的说明"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "000@0190000400A452144D.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "2C8BCC72-ACE9-48B5-B7BA-ADFE1595B0DF",
+            "wenjianLj": "1-2-4  控股股东及实际控制人控制的其他企业的营业执照、公司章程、最近一年及一期的财务报告及审计报告"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00002@0290000300306680AF.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "D7D5173B-CBEA-45E2-AB72-C781FDAE3D74",
+            "wenjianLj": "1-2-4  控股股东及实际控制人控制的其他企业的营业执照、公司章程、最近一年及一期的财务报告及审计报告"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00189@029000020032F03619.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "7F420846-74AE-4137-B55B-C705FCDE43A4",
+            "wenjianLj": "1-2-4  控股股东及实际控制人控制的其他企业的营业执照、公司章程、最近一年及一期的财务报告及审计报告"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00192@0290000100848585C5.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "87F12B78-ED5B-47B1-BE5A-D19F9C3A54CC",
+            "wenjianLj": "1-2-4  控股股东及实际控制人控制的其他企业的营业执照、公司章程、最近一年及一期的财务报告及审计报告"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "55@019000010016864EB6.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "97315780-4625-48B9-B665-865D36DA1801",
+            "wenjianLj": "1-2-5  控股股东及实际控制人、主要股东持有发行人股份是否存在质押或权属争议情况的说明及相关文件"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "ewe@0190000200201E6ED8.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "91901814-07F8-4A72-87DB-59E690550493",
+            "wenjianLj": "1-2-5  控股股东及实际控制人、主要股东持有发行人股份是否存在质押或权属争议情况的说明及相关文件"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00024@02900003000F6FC951.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "58CFBE86-9EAC-4F72-A2C6-1727DDE556F9",
+            "wenjianLj": "1-2-5  控股股东及实际控制人、主要股东持有发行人股份是否存在质押或权属争议情况的说明及相关文件"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00036@02900005007A147A8F.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "025BE5F7-4944-4153-A4C8-C9D201D10AE8",
+            "wenjianLj": "1-2-5  控股股东及实际控制人、主要股东持有发行人股份是否存在质押或权属争议情况的说明及相关文件"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00037@0290000400AF9A9CF9.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "81EE7AE1-3347-4718-90FC-41522979C3CB",
+            "wenjianLj": "1-2-5  控股股东及实际控制人、主要股东持有发行人股份是否存在质押或权属争议情况的说明及相关文件"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00047@02900006009B197426.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "579D92C1-9214-4F64-8061-80D0E3C0689C",
+            "wenjianLj": "1-2-5  控股股东及实际控制人、主要股东持有发行人股份是否存在质押或权属争议情况的说明及相关文件"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00048@02900007008955FA7C.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "C4E0E984-9F6B-4875-9132-950C0C6D49B2",
+            "wenjianLj": "1-2-5  控股股东及实际控制人、主要股东持有发行人股份是否存在质押或权属争议情况的说明及相关文件"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00049@0290000800E47070FB.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "552E6DD4-9FE4-4CD0-93C7-78EF8A872F2A",
+            "wenjianLj": "1-2-5  控股股东及实际控制人、主要股东持有发行人股份是否存在质押或权属争议情况的说明及相关文件"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00050@0290000900E93EF61A.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "8B1B6B2B-9D2C-4A09-9B22-B46859956CBF",
+            "wenjianLj": "1-2-5  控股股东及实际控制人、主要股东持有发行人股份是否存在质押或权属争议情况的说明及相关文件"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00051@0290001000EB101996.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "71ADDB15-D820-486A-830C-AF5DBE67EAAB",
+            "wenjianLj": "1-2-5  控股股东及实际控制人、主要股东持有发行人股份是否存在质押或权属争议情况的说明及相关文件"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00052@0290001100E6BE5035.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "166A8BE3-ED67-46D2-A9B7-392043487C1B",
+            "wenjianLj": "1-2-5  控股股东及实际控制人、主要股东持有发行人股份是否存在质押或权属争议情况的说明及相关文件"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "1-1-1  发行人的营业执照、税务登记证，组织机构代码证@01900001000480FEB6.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "83B69B7D-782E-4FBE-A1A9-CA5A7DB1AE7E",
+            "wenjianLj": "1-2-6  控股股东及实际控制人、主要股东及作为股东的董事、监事、高级管理人员作出的重要承诺及其履行情况的说明以及未能履行承诺的约束措施"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "1-1-1  发行人的营业执照、税务登记证，组织机构代码证@0190000100148045D0.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "AE4156EE-D152-4695-84BA-FF47F5E1D357",
+            "wenjianLj": "1-2-7  股东中战略投资者持股的情况及相关资料"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "LstToPdf@019000010073F5B3F4.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "A39738C5-BE84-41B0-84E8-DE94FE2D6E1D",
+            "wenjianLj": "1-2-8  控股股东、实际控制人最近三年收到的证监会、交易所、证监局等证券监管机构的监管函、问询函、关注函等文件及其答复"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "华泰安全-开发计划表@01900001003F51175A.xlsx",
+            "fileExtension": "xlsx",
+            "lastModifier": "009290",
+            "ysWenjianId": "8AF1A3F2-C5E0-4870-9568-13C9B67121EA",
+            "wenjianLj": "1-3-1  报告期内发行人控股子公司、参股子公司的营业执照、税务登记证、组织机构代码证、公司章程、最近一年及一期的财务报告及审计报告"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "接口说明@01900002003A2E19C0.docx",
+            "fileExtension": "docx",
+            "lastModifier": "009290",
+            "ysWenjianId": "814532F5-531E-44FA-AD62-4828B8583467",
+            "wenjianLj": "1-3-1  报告期内发行人控股子公司、参股子公司的营业执照、税务登记证、组织机构代码证、公司章程、最近一年及一期的财务报告及审计报告"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "软件部通讯录20161115@0190000300509726FA.xls",
+            "fileExtension": "xls",
+            "lastModifier": "009290",
+            "ysWenjianId": "053742E8-BA5D-4E0E-96B5-94817C055A06",
+            "wenjianLj": "1-3-1  报告期内发行人控股子公司、参股子公司的营业执照、税务登记证、组织机构代码证、公司章程、最近一年及一期的财务报告及审计报告"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00046@0290000100C63D6FE0.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "905E6309-755D-43D8-AE7B-1A46318D9587",
+            "wenjianLj": "1-3-2  报告期内发行人控股子公司、参股子公司的工商档案"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00207@029000010075058E71.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "F109AC43-65A1-4DB2-BAB3-E91F955C27B2",
+            "wenjianLj": "1-4-1  报告期内员工人数及其变化、专业结构、受教育程度、年龄分布的说明"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00208@0290000200B57CE8BF.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "6900610D-F5D9-4517-997E-FF817F4ADB16",
+            "wenjianLj": "1-4-1  报告期内员工人数及其变化、专业结构、受教育程度、年龄分布的说明"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00209@02900003004B194F23.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "DF70D753-5691-4663-8595-36A3F572F588",
+            "wenjianLj": "1-4-1  报告期内员工人数及其变化、专业结构、受教育程度、年龄分布的说明"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00210@029000040089B74373.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "29521656-42C4-4740-B8B2-7210000E0C9D",
+            "wenjianLj": "1-4-1  报告期内员工人数及其变化、专业结构、受教育程度、年龄分布的说明"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00218@02900001003E90ADCB.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "A481FD3D-2C8F-4FC5-ACF2-E97F4985A01E",
+            "wenjianLj": "1-4-2  执行社会保障制度、住房制度改革、医疗制度改革情况的说明、证明文件和相关费用缴纳凭证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00219@0290000200374BEA8B.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "798137FF-07B4-40D6-95C6-932161A399E2",
+            "wenjianLj": "1-4-2  执行社会保障制度、住房制度改革、医疗制度改革情况的说明、证明文件和相关费用缴纳凭证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00220@029000030001B843C5.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "6BCDF2F9-BAC4-4D25-8FA5-3CD32B3FA353",
+            "wenjianLj": "1-4-2  执行社会保障制度、住房制度改革、医疗制度改革情况的说明、证明文件和相关费用缴纳凭证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00221@02900004002B379A36.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "E38202FC-68A5-4A7B-BEB9-C9870E80A3CD",
+            "wenjianLj": "1-4-2  执行社会保障制度、住房制度改革、医疗制度改革情况的说明、证明文件和相关费用缴纳凭证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00226@0290000100DE465C13.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "535B0140-A71A-4337-BA5C-9F4515E9266D",
+            "wenjianLj": "1-4-3  劳动合同样本（含高管和普通员工）"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00227@02900002008162E98A.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "F9498F89-1BAB-405E-B94A-7451B307E6C0",
+            "wenjianLj": "1-4-3  劳动合同样本（含高管和普通员工）"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00228@029000030053A1C05E.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "601D957A-03C2-474A-A689-1016F5F9B30D",
+            "wenjianLj": "1-4-3  劳动合同样本（含高管和普通员工）"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00223@0290000100B72935E3.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "06926B6F-3BF8-45D1-BA96-6468B271676D",
+            "wenjianLj": "1-4-4  员工访谈记录"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00225@02900003008BEEEC1C.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "A85DB0FE-413E-48EB-B2C7-5085846320D7",
+            "wenjianLj": "1-4-5  劳务派遣情况说明"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00226@0290000400DE465C13.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "C9E3BADA-0470-437C-A21F-E9B5D658A512",
+            "wenjianLj": "1-4-5  劳务派遣情况说明"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00227@02900005008162E98A.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "F932E1C7-D19C-4961-970F-BBCA2F6C5EB8",
+            "wenjianLj": "1-4-5  劳务派遣情况说明"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00228@029000010053A1C05E.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "22B6FDCF-DF13-4935-B1C7-A8C2CF139F78",
+            "wenjianLj": "1-4-5  劳务派遣情况说明"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00229@0290000200F7DD1C0D.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "A0F3E3E0-E59C-4FE4-8EC9-EC780E05568E",
+            "wenjianLj": "1-4-5  劳务派遣情况说明"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00207@029000010075058E71.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "C9F1640B-B098-4B34-84FF-D5F3F6AA6143",
+            "wenjianLj": "1-4-6  社保证明和相关费用缴纳凭证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00208@0290000200B57CE8BF.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "7CF9DCFB-70A1-43BB-BD95-11D8499D2300",
+            "wenjianLj": "1-4-6  社保证明和相关费用缴纳凭证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00209@02900003004B194F23.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "CC174AEA-E159-4029-A409-C2A67998F434",
+            "wenjianLj": "1-4-6  社保证明和相关费用缴纳凭证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00225@02900004008BEEEC1C.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "58B32B2B-7D62-40E1-A0CD-3AFAE7D8BFC8",
+            "wenjianLj": "1-4-6  社保证明和相关费用缴纳凭证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00226@0290000500DE465C13.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "4E16DA40-60C1-4300-9D74-A86A10DABB6B",
+            "wenjianLj": "1-4-6  社保证明和相关费用缴纳凭证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00227@02900001008162E98A.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "AD5FE199-0A18-4033-BBB2-11BB723D022D",
+            "wenjianLj": "1-4-6  社保证明和相关费用缴纳凭证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00228@029000020053A1C05E.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "014087E7-9C7C-4DAE-B173-CF03381C3F69",
+            "wenjianLj": "1-4-6  社保证明和相关费用缴纳凭证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00229@0290000300F7DD1C0D.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "8A4D3F1B-DB88-442B-A57C-D6D0E69795E9",
+            "wenjianLj": "1-4-6  社保证明和相关费用缴纳凭证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00227@02900001008162E98A.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "18412DC7-B2DC-4147-B9FB-E6B458B629AC",
+            "wenjianLj": "1-5-1  房屋所有权证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00228@029000030053A1C05E.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "6F0FAA37-8069-49D7-9387-1F5F9C261FF2",
+            "wenjianLj": "1-5-1  房屋所有权证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00229@0290000400F7DD1C0D.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "E4475B4A-E283-4ADD-98F2-2B790FF7188C",
+            "wenjianLj": "1-5-1  房屋所有权证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "@0190000200DC8FA27B.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "2DCB0242-4891-4497-AE22-7C571D9F1641",
+            "wenjianLj": "1-1-1  发行人的营业执照、税务登记证，组织机构代码证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "Chrysanthemum@029000090081F07779.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "AF077958-7869-4DB8-9925-9B923A567CAB",
+            "wenjianLj": "1-1-1  发行人的营业执照、税务登记证，组织机构代码证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "LstToPdf@0190000100EA2F57EE.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "1CC9B46F-1CBB-47FA-8D2B-2E583F485381",
+            "wenjianLj": "1-1-1  发行人的营业执照、税务登记证，组织机构代码证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "https@019000080096A8FBBD.docx",
+            "fileExtension": "docx",
+            "lastModifier": "009290",
+            "ysWenjianId": "918C3B29-5CEC-4DC2-A54C-128E7289FEED",
+            "wenjianLj": "1-1-1  发行人的营业执照、税务登记证，组织机构代码证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "vugen_3@02900003007CE3266D.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "3963F996-42CB-4E2F-BAC0-8E4FC2EF823F",
+            "wenjianLj": "1-1-1  发行人的营业执照、税务登记证，组织机构代码证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "vugen_4@0290000400DF867629.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "8EF2C043-FAA1-4515-BB19-1F2580AEFE2E",
+            "wenjianLj": "1-1-1  发行人的营业执照、税务登记证，组织机构代码证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "vugen_5@02900005003A5809FB.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "EB7BC29A-B733-4BD7-9D4D-17D46A7655BE",
+            "wenjianLj": "1-1-1  发行人的营业执照、税务登记证，组织机构代码证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "vugen_6@029000070030E4CB41.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "A2ED7D9D-2A72-4128-925A-AB753D70FFE3",
+            "wenjianLj": "1-1-1  发行人的营业执照、税务登记证，组织机构代码证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "vugen_7@0290000600D339A319.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "6BA86FF5-6F83-422E-A7B6-5ADA0C6F650B",
+            "wenjianLj": "1-1-1  发行人的营业执照、税务登记证，组织机构代码证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00049@0290000100E47070FB.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "3486B767-625F-4530-858E-5972E343B2EE",
+            "wenjianLj": "1-1-4  发行人的工商档案"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "23@01900005003D1F2E3C.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "C1B6D1A0-F28F-4A0C-A9DD-912F5C1562FF",
+            "wenjianLj": "1-1-2  发行人的股本情况、股权结构图"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00035@0290000100EC5E4E82.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "EC750209-984B-421F-8088-C6E204CB54B2",
+            "wenjianLj": "1-1-3  发行人组织结构图（含参控股子公司、分公司、职能部门设置）"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00036@02900002007A147A8F.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "B4CE475E-12CB-4AC0-89FC-8EC5DB42C727",
+            "wenjianLj": "1-1-3  发行人组织结构图（含参控股子公司、分公司、职能部门设置）"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "1-1-4  发行人的工商档案@0190000600DB43B95C.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "2BF032A9-6351-460C-A9DC-4E030C67359B",
+            "wenjianLj": "1030_2"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "1030-1@0190000300E6318D6F.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "9AA4FCD3-7575-42E5-B9AA-EFBF9D08D5DA",
+            "wenjianLj": "1030_2"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "1030-2@0190000400E2C7EA32.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "5C2DD84A-0BEB-4006-84F1-E8C4A30894C5",
+            "wenjianLj": "1030_2"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "1030-3@0190000500E364C3CB.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "6FBE9D3C-7853-4890-8F10-C867EBC25CB8",
+            "wenjianLj": "1030_2"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "123@01900004005C30F582.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "7EEB9AF1-458C-42E2-9637-CFF07AA76F05",
+            "wenjianLj": "1-1-1  发行人的营业执照、税务登记证，组织机构代码证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "333^img00224@H2010001006119C56B.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "7FE97704-D700-473E-B777-391C3AD3F498",
+            "wenjianLj": "1-1-1  发行人的营业执照、税务登记证，组织机构代码证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "333^img00225@H2010002008BEEEC1C.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "E657BDAE-EC7B-4404-8134-8D7C84FCA411",
+            "wenjianLj": "1-1-1  发行人的营业执照、税务登记证，组织机构代码证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "333^img00226@H201000300DE465C13.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "626E115F-2378-4E7C-8DBD-0A92E44F2DA3",
+            "wenjianLj": "1-1-1  发行人的营业执照、税务登记证，组织机构代码证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "LstToPdf@01900001005E874554.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "033F12DC-28E6-43A7-9DB4-DAF042D14375",
+            "wenjianLj": "1-1-1  发行人的营业执照、税务登记证，组织机构代码证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00207@029000010075058E71.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "F5B73D69-BCB5-43FA-B402-CF5253C2DE98",
+            "wenjianLj": "1-1-1  发行人的营业执照、税务登记证，组织机构代码证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00208@0290000200B57CE8BF.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "B97CFF89-BE28-4B62-B165-590AA3BCCDF1",
+            "wenjianLj": "1-1-1  发行人的营业执照、税务登记证，组织机构代码证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00209@02900003004B194F23.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "354EB841-2077-4B74-B929-BF3541422FCD",
+            "wenjianLj": "1-1-1  发行人的营业执照、税务登记证，组织机构代码证"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00213@0290000100E2FBBB89.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "7532A99E-256A-4642-99AF-70896AF53D2C",
+            "wenjianLj": "1-1-2  发行人的股本情况、股权结构图"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00214@029000020014E7BC9D.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "A8919885-6C62-47C2-A819-DDFDCFC39869",
+            "wenjianLj": "1-1-2  发行人的股本情况、股权结构图"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00215@02900003009F84C4D9.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "3D068213-8F15-4D19-AEBC-0153D29B72D2",
+            "wenjianLj": "1-1-2  发行人的股本情况、股权结构图"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "LstToPdf@0190000100F2FF8FAD.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "0F18ACBA-636A-4942-B04E-6E3D4037E5A9",
+            "wenjianLj": "1-1-3  发行人组织结构图（含参控股子公司、分公司、职能部门设置）"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00223@0290000100B72935E3.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "F92F38E5-8473-4848-83DA-1B69316034AE",
+            "wenjianLj": "1-1-3  发行人组织结构图（含参控股子公司、分公司、职能部门设置）"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00224@02900002006119C56B.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "E8788BA3-FA73-453A-8256-52FAB4F5190B",
+            "wenjianLj": "1-1-3  发行人组织结构图（含参控股子公司、分公司、职能部门设置）"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00225@02900003008BEEEC1C.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "4915F558-D7A8-4187-921E-B39E5DE76D60",
+            "wenjianLj": "1-1-3  发行人组织结构图（含参控股子公司、分公司、职能部门设置）"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "1018-3@0190001600BB39C263.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "DDC188DC-F2C6-45E8-BD97-10A719C8A066",
+            "wenjianLj": "1-1-4  发行人的工商档案"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "LstToPdf@0190000100108B6F6C.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "52FD74E5-8BBD-49D5-9611-AEB56916C1A5",
+            "wenjianLj": "1-1-4  发行人的工商档案"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00032@029000020075D326B3.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "28F0979E-69B1-4C50-B640-74C2245B8BCC",
+            "wenjianLj": "1-1-4  发行人的工商档案"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00033@02900003000F6FC951.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "97A70CEF-F7A7-46C4-9F09-4E415C19370A",
+            "wenjianLj": "1-1-4  发行人的工商档案"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00034@029000040008057DED.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "8D0D05D8-F548-4DBD-B88F-B2B8C6873067",
+            "wenjianLj": "1-1-4  发行人的工商档案"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00222@0290000100C6F03792.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "6AFAC454-DF3C-41DD-8B03-2B75557A457E",
+            "wenjianLj": "1-1-4  发行人的工商档案"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00223@0290000200B72935E3.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "5B6F7E96-CFE0-4391-9E8B-7333AB27F151",
+            "wenjianLj": "1-1-4  发行人的工商档案"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "img00224@02900003006119C56B.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "0E7601BB-7DC1-4937-9E08-C0B94DB9332D",
+            "wenjianLj": "1-1-4  发行人的工商档案"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "test1018-2@0190001000C77B7B5D.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "D7235F0F-9614-477A-AD71-E589968FBA19",
+            "wenjianLj": "1-1-4  发行人的工商档案"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "test1018@019000060082D5B27A.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "19AD32C4-671A-4086-9AC3-2F887431899C",
+            "wenjianLj": "1-1-4  发行人的工商档案"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "zsdf@0190000400C230A296.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "B26D6BD9-D59B-418E-A17E-59F71CB2AACC",
+            "wenjianLj": "1-1-4  发行人的工商档案"
+        },
+        {
+            "xiangmuid": "2017061611",
+            "wenjianId": null,
+            "queueType": null,
+            "fname": "新华信托签约系统使用手册111_7@0290000700581BD263.pdf",
+            "fileExtension": "pdf",
+            "lastModifier": "009290",
+            "ysWenjianId": "8BAAAE3A-1C43-4404-8CBD-E9F9F375DE4C",
+            "wenjianLj": "1-1-4  发行人的工商档案"
+        }
+    ]
+}
