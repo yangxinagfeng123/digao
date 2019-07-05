@@ -1,1 +1,6 @@
 2BF032A9-6351-460C-A9DC-4E030C67359B
+String aa = JSONObject.fromObject(result).getString("diGaoList");
+            List<DiGaoXinXi> digaoList =JSONArray.fromObject(aa);
+            for (DiGaoXinXi x:digaoList) {
+                List<DigaoSuyuanYuanwen> digaoSuyuanYuanwen = matchCataglogName(catalogName);
+            }
